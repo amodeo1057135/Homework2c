@@ -1,0 +1,17 @@
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\obj\Debug\net6.0-windows\Homework2c.csproj.AssemblyReference.cache
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\obj\Debug\net6.0-windows\Homework2c.Form1.resources
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\obj\Debug\net6.0-windows\Homework2c.csproj.GenerateResource.cache
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\obj\Debug\net6.0-windows\Homework2c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\obj\Debug\net6.0-windows\Homework2c.AssemblyInfoInputs.cache
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\obj\Debug\net6.0-windows\Homework2c.AssemblyInfo.cs
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\obj\Debug\net6.0-windows\Homework2c.csproj.CoreCompileInputs.cache
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\bin\Debug\net6.0-windows\Homework2c.exe
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\bin\Debug\net6.0-windows\Homework2c.deps.json
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\bin\Debug\net6.0-windows\Homework2c.runtimeconfig.json
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\bin\Debug\net6.0-windows\Homework2c.dll
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\bin\Debug\net6.0-windows\Homework2c.pdb
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\obj\Debug\net6.0-windows\Homework2c.dll
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\obj\Debug\net6.0-windows\refint\Homework2c.dll
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\obj\Debug\net6.0-windows\Homework2c.pdb
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\obj\Debug\net6.0-windows\Homework2c.genruntimeconfig.cache
+C:\Users\valerio\Source\Repos\Homework2c\Homework2c\obj\Debug\net6.0-windows\ref\Homework2c.dll
